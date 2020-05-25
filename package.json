@@ -1,0 +1,25 @@
+{
+  "name": "servicenswlesson11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":"npx mocha",
+        "pointer": "node .\\src\\VariablePointers.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fareeha2020/ServiceNswLesson11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fareeha2020/ServiceNswLesson11/issues"
+  },
+  "homepage": "https://github.com/fareeha2020/ServiceNswLesson11#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  }
+}
