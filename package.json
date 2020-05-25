@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test":"npx mocha",
-        "pointer": "node .\\src\\VariablePointers.js"
-        
+    "test": "npx mocha",
+    "pointer": "node .\\src\\VariablePointers.js"
   },
   "repository": {
     "type": "git",
